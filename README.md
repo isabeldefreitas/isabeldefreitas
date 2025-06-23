@@ -1,14 +1,6 @@
-<h1 align="center">Olá, eu sou a Isabel! 👩🏾‍💻</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isabelfbarboza&color=blue" alt="Contador de visitas" />
-</p>
-
-<p align="center">
-  <em>Estudante de Tecnologia da Informação, explorando o universo da programação, ciência de dados e computação científica.</em>
-</p>
-
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FAFAFA&background=000000&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+a+Isabel+👩🏾‍💻" alt="Typing SVG" />
+</h1>
 
 ### 🌱 Sobre mim
 
@@ -18,30 +10,25 @@
 - 📊 Estudando Análise de dados 
 - 🧩 Sempre aprendendo...
 
----
+### 
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabeldefreitas&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeldefreitas&layout=compact&theme=radical" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github.com/isabeldefreitas/isabeldefreitas/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
 ### 📫 Onde me encontrar
 
 - ✉️ isabeldefreitasbarboza@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/isabel-de-freitas-barboza/)   
 
 ---
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabelfbarboza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelfbarboza&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/isabelfbarboza/isabelfbarboza/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 
 
 
