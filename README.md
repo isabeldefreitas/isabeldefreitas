@@ -1,16 +1,49 @@
-### Hi there 👋
+<h1 align="center">Olá, eu sou a Isabel! 👩🏾‍💻</h1>
 
-<!--
-**isabeldefreitas/isabeldefreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isabelfbarboza&color=blue" alt="Contador de visitas" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Estudante de Tecnologia da Informação, explorando o universo da programação, ciência de dados e computação científica.</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Sobre mim
+
+- 🎓 Técnica em Telecomunicações pelo CEFET-RJ  
+- 💻 Graduanda em Tecnologia da Informação e Comunicação (FAETERJ, 2025)
+- 🔬 Iniciação científica no LNCC
+- 📊 Estudando Análise de dados 
+- 🧩 Sempre aprendendo...
+
+---
+
+### 📫 Onde me encontrar
+
+- ✉️ isabeldefreitasbarboza@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/isabel-de-freitas-barboza/)   
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabelfbarboza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelfbarboza&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/isabelfbarboza/isabelfbarboza/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+
+
+
+
+
