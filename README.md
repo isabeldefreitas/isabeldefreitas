@@ -17,18 +17,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeldefreitas&layout=compact&theme=radical" />
 </p>
 
----
+### 
+
 <p align="center">
-  <img src="https://github.com/isabeldefreitas/isabeldefreitas/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/isabeldefreitas/isabeldefreitas/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
 
----
+
+
 ### 📫 Onde me encontrar
 
 - ✉️ isabeldefreitasbarboza@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/isabel-de-freitas-barboza/)   
 
----
 
 
 
