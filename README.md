@@ -20,8 +20,9 @@
 ### 
 
 <p align="center">
-  <img src="https://github.com/isabeldefreitas/isabeldefreitas/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/isabeldefreitas/isabeldefreitas/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
 
 
 
