@@ -7,7 +7,7 @@
 - 🎓 Técnica em Telecomunicações pelo CEFET-RJ  
 - 💻 Tecnologia da Informação e Comunicação (FAETERJ, 2026)
 - 🔬 Iniciação científica no LNCC
-- 📊 Estudando Análise de dados 
+- 📊 Focando na Área de Dados 
 - 🧩 Sempre aprendendo...
 
 ### 
