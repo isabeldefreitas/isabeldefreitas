@@ -13,13 +13,6 @@
 ### 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabeldefreitas&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabeldefreitas&layout=compact&theme=radical" />
-</p>
-
-### 
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/isabeldefreitas/isabeldefreitas/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
