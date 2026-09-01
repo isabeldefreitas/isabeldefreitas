@@ -5,7 +5,7 @@
 ### 🌱 Sobre mim
 
 - 🎓 Técnica em Telecomunicações pelo CEFET-RJ  
-- 💻 Graduanda em Tecnologia da Informação e Comunicação (FAETERJ, 2025)
+- 💻 Tecnologia da Informação e Comunicação (FAETERJ, 2026)
 - 🔬 Iniciação científica no LNCC
 - 📊 Estudando Análise de dados 
 - 🧩 Sempre aprendendo...
@@ -26,8 +26,8 @@
 
 ### 📫 Onde me encontrar
 
-- ✉️ isabeldefreitasbarboza@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/isabel-de-freitas-barboza/)   
+- ✉️ isabeldefreitas8@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/ifbarboza)   
 
 
 
