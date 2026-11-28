@@ -19,7 +19,7 @@
 
 ### 📫 Onde me encontrar
 
-- ✉️ isabeldefreitas8@gmail.com  
+- ✉️ isabeldefreitas9@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/ifbarboza)   
 
 
